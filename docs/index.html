@@ -233,7 +233,7 @@
             color: #00e6b8;
             text-shadow: 0 2px 8px #0008;
         }
-        @media (max-width: 900px) {
+        @media (max-width: 940px) {
             .container {
                 flex-direction: column;
                 align-items: center;
@@ -244,9 +244,20 @@
                 margin-bottom: 30px;
             }
             .mode-panel {
-                bottom: 10px;
+                bottom: 10vh;
+                gap: 10px;
+                font-size: 15px;
+                .mode-btn {
+                    padding: 10px 20px;
+                }
+            }
+            .value-display {
+                padding: 6px 0px;
+                min-width: 100px;
             }
         }
+
+
     </style>
 </head>
 <body>
