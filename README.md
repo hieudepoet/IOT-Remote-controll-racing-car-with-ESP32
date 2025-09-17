@@ -1,6 +1,6 @@
 # Introduction
 
-This a source code folder to monitor a remote control robot racing car model. This readme file is written for people who have experience in the field of IOT or electronics, so it will be a bit difficult to understand for newbies or people who are not in this field, so do not hesitate to [CONTACT ME](https://github.com/hieudepoet/) to receive maximum support in your learning and exploration process.
+This a source code folder to buld and monitor a remote control robot racing car model. This readme file is written for people who have experience in the field of IOT or electronics, so it will be a bit difficult to understand for newbies or people who are not in this field, so do not hesitate to [CONTACT ME](https://github.com/hieudepoet/) to receive maximum support in your learning and exploration process.
 
 ## Installation
 - Download VSCode and add basic extension to go live a .html web
