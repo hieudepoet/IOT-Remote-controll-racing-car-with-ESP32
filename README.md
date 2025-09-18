@@ -20,6 +20,7 @@ This a source code folder to buld and monitor a remote control robot racing car 
 - Step 6: Tools -> ESP32 sketch data upload. Wait until uploading done.
 - Step 7: Disconnect the Esp32 to your device and connect the Esp32 to the model. Engine it and wait until the Esp32's wifi is on-air.
 - Step 8: Use the device your are coding or other mobile device to connect the esp32 and access 192.168.4.1 to controll the model by a virtual gamepad.   
+- Notice: Do not change the file structure of this repository or it will be not working.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
